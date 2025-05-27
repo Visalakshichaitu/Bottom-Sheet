@@ -24,8 +24,8 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd your-repo-folder
+   git clone https://github.com/Visalakshichaitu/Bottom-Sheet.git
+   cd Bottom-Sheet
 
 2.Install dependencies:
   npm install
